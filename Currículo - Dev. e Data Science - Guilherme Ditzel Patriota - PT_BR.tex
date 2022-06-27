@@ -1,0 +1,187 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Twenty Seconds Resume/CV
+% LaTeX Template
+% Version 1.1 (8/1/17)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Carmine Spagnuolo (cspagnuolo@unisa.it) with major modifications by 
+% Vel (vel@LaTeXTemplates.com)
+%
+% License:
+% The MIT License (see included LICENSE file)
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[letterpaper]{twentysecondcv_pt_br} % a4paper for A4
+
+%----------------------------------------------------------------------------------------
+%	 PERSONAL INFORMATION
+%----------------------------------------------------------------------------------------
+
+% If you don't need one or more of the below, just remove the content leaving the command, e.g. \cvnumberphone{}
+
+\profilepic{guilherme.jpg} % Profile picture
+
+\cvname{Guilherme Ditzel Patriota} % Your name
+\cvjobtitle{Dev. e Cientista de Dados} % Job title/career
+
+\cvdate{27 de Fevereiro de 1984} % Date of birth
+\cvaddress{Curitiba/Paraná/Brazil} % Short address/location, use \newline if more than 1 line is required
+\cvnumberphone{+55 41 98802-8496} % Phone number
+\cvsite{https://github.com/guipatriota} % Personal website
+\cvmail{guipatriota@gmail.com} % Email address
+\cvsalary{R\$8.000,00}
+
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	 ABOUT ME
+%----------------------------------------------------------------------------------------
+
+\aboutme{Guilherme é Engenheiro Eletricista formado pela UFPR, em parceria com a universidade francesa ENSPS, com ênfases em Eletrônica e Telecomuinicações. Possui mestrado em telecomunicações com aplicação de Inteligência Artificial (IA) em telefonia móvel e é certificado IELTS 7.0 (inglês avançado). Busca colocação como cientista de dados.} % To have no About Me section, just remove all the text and leave \aboutme{}
+
+%----------------------------------------------------------------------------------------
+%	 SKILLS
+%----------------------------------------------------------------------------------------
+
+% Skill bar section, each skill must have a value between 0 an 6 (float)
+\skills{{Eletrônica/6},{Inglês/5.5},{C, C++ e IOT/5.5},{Python e IA/5.5},{R e Data Science/5},{Banco de dados SQL e NoSQL/4}, {ETL, Pentaho e Kettle/4.5}, {Tableau e Power BI/4}}
+
+%------------------------------------------------
+
+% Skill text section, each skill must have a value between 0 an 6
+\skillstext{}
+
+%----------------------------------------------------------------------------------------
+
+\makeprofile % Print the sidebar
+
+%----------------------------------------------------------------------------------------
+%	 INTERESTS
+%----------------------------------------------------------------------------------------
+
+\section{Interesses}
+
+Ciência de Dados; Desenvolvimento de softwares; Python; Alta tecnologia; Robótica; IA; Estatística; Automação; Gerenciamento de processos; Novos conhecimentos em tecnologia; Scrum; Gitflow; Documentação em LaTeX
+
+%----------------------------------------------------------------------------------------
+%	 EDUCATION
+%----------------------------------------------------------------------------------------
+
+\section{Educação}
+
+\begin{twenty} % Environment for a list with descriptions
+	\twentyitem{2013-2016}{\normalfont MBA gestão em saúde}{FGV/Brazil}{\emph{Melhorias na manutenção de equipamentos eletromédicos.}}
+	\twentyitem{2009-2011}{\normalfont Mestrado em Engenharia Elétrica}{UFPR/Brazil}{\emph{Telecomunicações e IA na melhoria de alcance de sinais 3G.}}
+	\twentyitem{2002-2006}{\normalfont Graduação em Engenharia Elétrica}{UFPR/Brazil}{\emph{Eletrônica e Telecomunicações.}}
+	\twentyitem{2004-2004}{\normalfont Graduação em Engenharia Elétrica}{ENSPS/France}{\emph{Intercâmbio pela UFPR para matérias da ênfase de eletrônica.}}
+	%\twentyitem{<dates>}{<title>}{<location>}{<description>}
+\end{twenty}
+
+%----------------------------------------------------------------------------------------
+%	 PUBLICATIONS
+%----------------------------------------------------------------------------------------
+
+%\section{Publications}
+
+% \begin{twentyshort} % Environment for a short list with no descriptions
+% 	\twentyitemshort{1865}{Chapter One, Down the Rabbit Hole.}
+% 	\twentyitemshort{1865}{Chapter Two, The Pool of Tears.}
+% 	\twentyitemshort{1865}{Chapter Three,  The Caucus Race and a Long Tale.}
+% 	\twentyitemshort{1865}{Chapter Four,  The Rabbit Sends a Little Bill.}
+% 	\twentyitemshort{1865}{Chapter Five,  Advice from a Caterpillar.}
+% 	%\twentyitemshort{<dates>}{<title/description>}
+% \end{twentyshort}
+
+%----------------------------------------------------------------------------------------
+%	 AWARDS
+%----------------------------------------------------------------------------------------
+
+% \section{Awards}
+
+% \begin{twentyshort} % Environment for a short list with no descriptions
+% 	\twentyitemshort{1987}{All-Time Best Fantasy Novel.}
+% 	\twentyitemshort{1998}{All-Time Best Fantasy Novel before 1990.}
+% 	%\twentyitemshort{<dates>}{<title/description>}
+% \end{twentyshort}
+
+%----------------------------------------------------------------------------------------
+%	 Courses
+%----------------------------------------------------------------------------------------
+
+\section{Formação Complementar}
+
+\begin{twenty} % Environment for a list with descriptions
+	\twentyitem{2020}{Descoberta de conhecimento em bancos de dados}{60h}{\normalfont \emph{UFPR/Brazil}}
+	\twentyitem{2020}{Fundamentos de Data Science.}{32h}{\normalfont \emph{Aldeia Coworking/Brazil}}
+	\twentyitem{2020}{Introduction to computer programming using python.}{9 semanas}{\normalfont \emph{MIT - edX/USA}}
+	\twentyitem{2020}{Fundamentos de IA + Data Science 2.0}{8h+8h}{\normalfont \emph{Data Science Academy}}
+	\twentyitem{2020}{Bootcamp Launchbase - Javascript}{60h}{\normalfont \emph{Rocketseat}}
+	\twentyitem{2020}{Bootcamp GoStack - Typescript}{40h}{\normalfont \emph{Rocketseat}}
+	\twentyitem{2020}{Formação de cientista de dados Alura}{260h}{\normalfont \emph{Alura}}
+	%\twentyitem{<dates>}{<title>}{<location>}{<description>}
+\end{twenty}
+
+%----------------------------------------------------------------------------------------
+%	 EXPERIENCE
+%----------------------------------------------------------------------------------------
+
+\section{Experiência Profissional}
+
+\begin{twenty} % Environment for a list with descriptions
+	\twentyitem{2016-atual}{Professor Universitário}{UniFaesp Centro Universitário}{\emph{Professor de Análise e desenvolvimento de Sistemas, Sistemas de informação e Engenharias.}}
+	\twentyitem{2020-2021}{Desenvolvedor de Software e Hardware}{Boa Impressão 3D}{\emph{Desenvolvimento de hardware em Fusion360 e sketchup, bem como dev. de software em Python e C.}}
+	\twentyitem{2018-2020}{Engenheiro de impressão 3D}{GS3D}{\emph{Construção, manutenção e configuração de impressoras 3D. Implantação de arduinos para gestão de fazendas de impressoras 3D. Modelagem 3D com Fusion360.}}
+	%\twentyitem{2017-2018}{Engenheiro Clínico}{Santa Casa de Curitiba}{\emph{Gerenciamento de equipe de manutenção de equipamentos médicos e suporte à aquisição e implantação de novas tecnologias de controle, gestão e automação.}}
+	%\twentyitem{2015-2017}{Engenheiro Clínico}{Hospital da Cruz Vermelha de Curitiba}{\emph{Implantação de sistema de controle e gestão de equipamentos médicos, implantação de sistema de transmissão internacional de vídeo cirurgia e gerenciamento de equipe de eletrônica.}}
+	%\twentyitem{2012-2014}{Engenheiro Clínico}{Hospital Vitória}{\emph{Gerenciamento de equipe de eletrônica para manutenção de equipamentos hospitalares e implantação de data center com automação de processos de rotina.}}
+	\twentyitem{2012-2018}{Engenheiro Clínico}{Hospital Vitória, Cruz Vermelha e Santa Casa}{\emph{Gerenciamento de equipe de eletrônica para manutenção de equipamentos médicos e suporte à aquisição e implantação de tecnologias de controle e automação. Implantação de sistema de transmissão de cirurgias por vídeo.}}
+	\twentyitem{2012-2012}{Desenvolvedor de Software Embarcado}{Datacom}{\emph{Desenvolvimento de firmware e loadware em C e C++ para sistemas embarcados de rede como switches e roteadores.}}
+	\twentyitem{2011-2011}{Desenvolvedor de Software e Hardware}{Waving Telecomuinications}{\emph{Projeto de 4 meses para desenvolvimento de software e hardware subcutâneo de localização com uso de ondas de rádio de baixo alcance e localização GPS para uso animal.}}
+	%\twentyitem{2008-2010}{Técnico de tecnologias e operações III}{Embratel}{\emph{Diagnóstico nível 3 de sistemas de rede NGN, TCP/IP, UDP e telefonia fixa, suporte às equipes de implantação e suporte níveis 1 e 2.}}
+	%\twentyitem{2005-2008}{Engenheiro de Telecomunicações}{Siemens/WCA}{\emph{Desenvolvedor de sistemas embarcados para centrais telefônicas PABX de grande porte em C++. Suporte técnico para equipamentos NGN de telefonia móvel e fixa.}}
+	%\twentyitem{<dates>}{<title>}{<location>}{<description>}
+\end{twenty}
+
+%----------------------------------------------------------------------------------------
+%	 OTHER INFORMATION
+%----------------------------------------------------------------------------------------
+
+% \section{Other information}
+% \subsection{Disponibility}
+% I am interested to immigrate to Canada as soon as possible and I am ready to pay for my expenses but I will need a job offer for my documentations.
+% \subsection{Other Skills and Interests}
+% Programming; Data Science; 3D Printing; Cryptocurencies; LaTex programming; Artificial Inteligence; PMBOK; Automation;
+
+%----------------------------------------------------------------------------------------
+%	 SECOND PAGE EXAMPLE
+%----------------------------------------------------------------------------------------
+
+%\newpage % Start a new page
+
+%\makeprofile % Print the sidebar
+
+%\section{Other information}
+
+%\subsection{Review}
+
+%Alice approaches Wonderland as an anthropologist, but maintains a strong sense of noblesse oblige that comes with her class status. She has confidence in her social position, education, and the Victorian virtue of good manners. Alice has a feeling of entitlement, particularly when comparing herself to Mabel, whom she declares has a ``poky little house," and no toys. Additionally, she flaunts her limited information base with anyone who will listen and becomes increasingly obsessed with the importance of good manners as she deals with the rude creatures of Wonderland. Alice maintains a superior attitude and behaves with solicitous indulgence toward those she believes are less privileged.
+
+%\section{Other information}
+
+%\subsection{Review}
+
+%Alice approaches Wonderland as an anthropologist, but maintains a strong sense of noblesse oblige that comes with her class status. She has confidence in her social position, education, and the Victorian virtue of good manners. Alice has a feeling of entitlement, particularly when comparing herself to Mabel, whom she declares has a ``poky little house," and no toys. Additionally, she flaunts her limited information base with anyone who will listen and becomes increasingly obsessed with the importance of good manners as she deals with the rude creatures of Wonderland. Alice maintains a superior attitude and behaves with solicitous indulgence toward those she believes are less privileged.
+
+%----------------------------------------------------------------------------------------
+
+\end{document} 

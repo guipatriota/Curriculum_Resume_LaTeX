@@ -1,0 +1,670 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2021.4.4)  16 AUG 2021 17:23
+entering extended mode
+**"g:/04.GUILHERME/01. DOCUMENTOS/00 - PESSOAL/00 - Currículos Guilherme/01.LaTeX_CV_English/Currículo - Dev. e Data Science - Guilherme Ditzel Patriota - PT_BR.tex"
+("g:/04.GUILHERME/01. DOCUMENTOS/00 - PESSOAL/00 - Currículos Guilherme/01.LaTeX_CV_English/Currículo - Dev. e Data Science - Guilherme Ditzel Patriota - PT_BR.tex"
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-07-17> ("g:/04.GUILHERME\01. DOCUMENTOS\00 - PESSOAL\00 - Currículos Guilherme\01.LaTeX_CV_English\twentysecondcv_pt_br.cls"
+Document Class: twentysecondcv_pt_br 2017/01/08 CV class
+("C:\Program Files\MiKTeX\tex/latex/base\article.cls"
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+("C:\Program Files\MiKTeX\tex/latex/base\size10.clo"
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count168
+\c@section=\count169
+\c@subsection=\count170
+\c@subsubsection=\count171
+\c@paragraph=\count172
+\c@subparagraph=\count173
+\c@figure=\count174
+\c@table=\count175
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+) (C:\Users\guipa\AppData\Roaming\MiKTeX\tex/latex/clearsans\ClearSans.sty
+Package: ClearSans 2019/10/16 (Bob Tennent) Supports Clear-Sans fonts for all LaTeX engines.
+ ("C:\Program Files\MiKTeX\tex/generic/iftex\ifxetex.sty"
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+ ("C:\Program Files\MiKTeX\tex/generic/iftex\iftex.sty"
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)) ("C:\Program Files\MiKTeX\tex/generic/iftex\ifluatex.sty"
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+) ("C:\Program Files\MiKTeX\tex/latex/xkeyval\xkeyval.sty"
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+ ("C:\Program Files\MiKTeX\tex/generic/xkeyval\xkeyval.tex" ("C:\Program Files\MiKTeX\tex/generic/xkeyval\xkvutils.tex"
+\XKV@toks=\toks15
+\XKV@tempa@toks=\toks16
+ ("C:\Program Files\MiKTeX\tex/generic/xkeyval\keyval.tex"))
+\XKV@depth=\count176
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) ("C:\Program Files\MiKTeX\tex/latex/base\textcomp.sty"
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+) ("C:\Program Files\MiKTeX\tex/latex/base\fontenc.sty"
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+) (C:\Users\guipa\AppData\Roaming\MiKTeX\tex/latex/fontaxes\fontaxes.sty
+Package: fontaxes 2020/07/21 v1.0e Font selection axes
+LaTeX Info: Redefining \upshape on input line 29.
+LaTeX Info: Redefining \itshape on input line 31.
+LaTeX Info: Redefining \slshape on input line 33.
+LaTeX Info: Redefining \swshape on input line 35.
+LaTeX Info: Redefining \scshape on input line 37.
+LaTeX Info: Redefining \sscshape on input line 39.
+LaTeX Info: Redefining \ulcshape on input line 41.
+LaTeX Info: Redefining \textsw on input line 47.
+LaTeX Info: Redefining \textssc on input line 48.
+LaTeX Info: Redefining \textulc on input line 49.
+)) ("C:\Program Files\MiKTeX\tex/latex/base\fontenc.sty"
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+ClearSans-TLF on input line 112.
+ (C:\Users\guipa\AppData\Roaming\MiKTeX\tex/latex/clearsans\t1clearsans-tlf.fd
+File: T1ClearSans-TLF.fd 2019/10/16 (autoinst) Font definitions for T1/ClearSans-TLF.
+)
+LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' in size <10> not available
+(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 112.
+LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
+(Font)              scaled to size 10.0pt on input line 112.
+) ("C:\Program Files\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty" ("C:\Program Files\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty" ("C:\Program Files\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty" ("C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex"
+\pgfutil@everybye=\toks17
+\pgfutil@tempdima=\dimen135
+\pgfutil@tempdimb=\dimen136
+ ("C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfutil-common-lists.tex")) ("C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def"
+\pgfutil@abb=\box45
+ ("C:\Program Files\MiKTeX\tex/latex/ms\everyshi.sty"
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+)) ("C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfrcs.code.tex" ("C:\Program Files\MiKTeX\tex/generic/pgf\pgf.revision.tex")
+Package: pgfrcs 2020/01/08 v3.1.5b (3.1.5b)
+))
+Package: pgf 2020/01/08 v3.1.5b (3.1.5b)
+ ("C:\Program Files\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.sty" ("C:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty"
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+ ("C:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty"
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+ ("C:\Program Files\MiKTeX\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) ("C:\Program Files\MiKTeX\tex/latex/graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+ ("C:\Program Files\MiKTeX\tex/latex/graphics-def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen137
+\Gin@req@width=\dimen138
+) ("C:\Program Files\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.sty" ("C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsys.code.tex"
+Package: pgfsys 2020/01/08 v3.1.5b (3.1.5b)
+ ("C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex"
+\pgfkeys@pathtoks=\toks18
+\pgfkeys@temptoks=\toks19
+ ("C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfkeysfiltered.code.tex"
+\pgfkeys@tmptoks=\toks20
+))
+\pgf@x=\dimen139
+\pgf@y=\dimen140
+\pgf@xa=\dimen141
+\pgf@ya=\dimen142
+\pgf@xb=\dimen143
+\pgf@yb=\dimen144
+\pgf@xc=\dimen145
+\pgf@yc=\dimen146
+\pgf@xd=\dimen147
+\pgf@yd=\dimen148
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count177
+\c@pgf@countb=\count178
+\c@pgf@countc=\count179
+\c@pgf@countd=\count180
+\t@pgf@toka=\toks21
+\t@pgf@tokb=\toks22
+\t@pgf@tokc=\toks23
+\pgf@sys@id@count=\count181
+ ("C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg"
+File: pgf.cfg 2020/01/08 v3.1.5b (3.1.5b)
+)
+Driver file for pgf: pgfsys-pdftex.def
+ ("C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-pdftex.def"
+File: pgfsys-pdftex.def 2020/01/08 v3.1.5b (3.1.5b)
+ ("C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def"
+File: pgfsys-common-pdf.def 2020/01/08 v3.1.5b (3.1.5b)
+))) ("C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex"
+File: pgfsyssoftpath.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfsyssoftpath@smallbuffer@items=\count182
+\pgfsyssoftpath@bigbuffer@items=\count183
+) ("C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex"
+File: pgfsysprotocol.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)) ("C:\Program Files\MiKTeX\tex/latex/xcolor\xcolor.sty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+ ("C:\Program Files\MiKTeX\tex/latex/graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+) ("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcore.code.tex"
+Package: pgfcore 2020/01/08 v3.1.5b (3.1.5b)
+ ("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex" ("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathcalc.code.tex" ("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathutil.code.tex") ("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathparser.code.tex"
+\pgfmath@dimen=\dimen149
+\pgfmath@count=\count184
+\pgfmath@box=\box46
+\pgfmath@toks=\toks24
+\pgfmath@stack@operand=\toks25
+\pgfmath@stack@operation=\toks26
+) ("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.code.tex" ("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex") ("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.trigonometric.code.tex") ("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.random.code.tex") ("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.comparison.code.tex") ("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.base.code.tex") ("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.round.code.tex") ("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex") ("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.integerarithmetics.code.tex"))) ("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfloat.code.tex"
+\c@pgfmathroundto@lastzeros=\count185
+)) ("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfint.code.tex") ("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex"
+File: pgfcorepoints.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@picminx=\dimen150
+\pgf@picmaxx=\dimen151
+\pgf@picminy=\dimen152
+\pgf@picmaxy=\dimen153
+\pgf@pathminx=\dimen154
+\pgf@pathmaxx=\dimen155
+\pgf@pathminy=\dimen156
+\pgf@pathmaxy=\dimen157
+\pgf@xx=\dimen158
+\pgf@xy=\dimen159
+\pgf@yx=\dimen160
+\pgf@yy=\dimen161
+\pgf@zx=\dimen162
+\pgf@zy=\dimen163
+) ("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.tex"
+File: pgfcorepathconstruct.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@path@lastx=\dimen164
+\pgf@path@lasty=\dimen165
+) ("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex"
+File: pgfcorepathusage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@shorten@end@additional=\dimen166
+\pgf@shorten@start@additional=\dimen167
+) ("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex"
+File: pgfcorescopes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfpic=\box47
+\pgf@hbox=\box48
+\pgf@layerbox@main=\box49
+\pgf@picture@serial@count=\count186
+) ("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.tex"
+File: pgfcoregraphicstate.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgflinewidth=\dimen168
+) ("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransformations.code.tex"
+File: pgfcoretransformations.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@pt@x=\dimen169
+\pgf@pt@y=\dimen170
+\pgf@pt@temp=\dimen171
+) ("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorequick.code.tex"
+File: pgfcorequick.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+) ("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex"
+File: pgfcoreobjects.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+) ("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathprocessing.code.tex"
+File: pgfcorepathprocessing.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+) ("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex"
+File: pgfcorearrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfarrowsep=\dimen172
+) ("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex"
+File: pgfcoreshade.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@max=\dimen173
+\pgf@sys@shading@range@num=\count187
+\pgf@shadingcount=\count188
+) ("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex"
+File: pgfcoreimage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+ ("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex"
+File: pgfcoreexternal.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfexternal@startupbox=\box50
+)) ("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex"
+File: pgfcorelayers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+) ("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransparency.code.tex"
+File: pgfcoretransparency.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+) ("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepatterns.code.tex"
+File: pgfcorepatterns.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+) ("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorerdf.code.tex"
+File: pgfcorerdf.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+))) ("C:\Program Files\MiKTeX\tex/generic/pgf/modules\pgfmoduleshapes.code.tex"
+File: pgfmoduleshapes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfnodeparttextbox=\box51
+) ("C:\Program Files\MiKTeX\tex/generic/pgf/modules\pgfmoduleplot.code.tex"
+File: pgfmoduleplot.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+) ("C:\Program Files\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty"
+Package: pgfcomp-version-0-65 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@nodesepstart=\dimen174
+\pgf@nodesepend=\dimen175
+) ("C:\Program Files\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty"
+Package: pgfcomp-version-1-18 2020/01/08 v3.1.5b (3.1.5b)
+)) ("C:\Program Files\MiKTeX\tex/latex/pgf/utilities\pgffor.sty" ("C:\Program Files\MiKTeX\tex/latex/pgf/utilities\pgfkeys.sty" ("C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex")) ("C:\Program Files\MiKTeX\tex/latex/pgf/math\pgfmath.sty" ("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex")) ("C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgffor.code.tex"
+Package: pgffor 2020/01/08 v3.1.5b (3.1.5b)
+ ("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex")
+\pgffor@iter=\dimen176
+\pgffor@skip=\dimen177
+\pgffor@stack=\toks27
+\pgffor@toks=\toks28
+)) ("C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex"
+Package: tikz 2020/01/08 v3.1.5b (3.1.5b)
+ ("C:\Program Files\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex"
+File: pgflibraryplothandlers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@plot@mark@count=\count189
+\pgfplotmarksize=\dimen178
+)
+\tikz@lastx=\dimen179
+\tikz@lasty=\dimen180
+\tikz@lastxsaved=\dimen181
+\tikz@lastysaved=\dimen182
+\tikz@lastmovetox=\dimen183
+\tikz@lastmovetoy=\dimen184
+\tikzleveldistance=\dimen185
+\tikzsiblingdistance=\dimen186
+\tikz@figbox=\box52
+\tikz@figbox@bg=\box53
+\tikz@tempbox=\box54
+\tikz@tempbox@bg=\box55
+\tikztreelevel=\count190
+\tikznumberofchildren=\count191
+\tikznumberofcurrentchild=\count192
+\tikz@fig@count=\count193
+ ("C:\Program Files\MiKTeX\tex/generic/pgf/modules\pgfmodulematrix.code.tex"
+File: pgfmodulematrix.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfmatrixcurrentrow=\count194
+\pgfmatrixcurrentcolumn=\count195
+\pgf@matrix@numberofcolumns=\count196
+)
+\tikz@expandcount=\count197
+ ("C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code.tex"
+File: tikzlibrarytopaths.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+))) (C:\Users\guipa\AppData\Roaming\MiKTeX\tex/latex/textpos\textpos.sty
+Package: textpos 2020/09/26 v1.10
+
+Package: textpos 2020/09/26 1.10, absolute positioning of text on the page
+Package textpos Info: choosing support for LaTeX2e on input line 61.
+\TP@textbox=\box56
+\TP@holdbox=\box57
+\TPHorizModule=\dimen187
+\TPVertModule=\dimen188
+\TP@margin=\dimen189
+\TP@absmargin=\dimen190
+Grid set 16 x 16 = 38.39343pt x 49.68562pt
+\TPboxrulesize=\dimen191
+\TP@ox=\dimen192
+\TP@oy=\dimen193
+\TP@tbargs=\toks29
+TextBlockOrigin set to 0pt x 0pt
+) ("C:\Program Files\MiKTeX\tex/latex/ragged2e\ragged2e.sty"
+Package: ragged2e 2019/07/28 v2.2 ragged2e Package (MS)
+ ("C:\Program Files\MiKTeX\tex/latex/ms\everysel.sty"
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+)
+\CenteringLeftskip=\skip49
+\RaggedLeftLeftskip=\skip50
+\RaggedRightLeftskip=\skip51
+\CenteringRightskip=\skip52
+\RaggedLeftRightskip=\skip53
+\RaggedRightRightskip=\skip54
+\CenteringParfillskip=\skip55
+\RaggedLeftParfillskip=\skip56
+\RaggedRightParfillskip=\skip57
+\JustifyingParfillskip=\skip58
+\CenteringParindent=\skip59
+\RaggedLeftParindent=\skip60
+\RaggedRightParindent=\skip61
+\JustifyingParindent=\skip62
+) ("C:\Program Files\MiKTeX\tex/latex/etoolbox\etoolbox.sty"
+Package: etoolbox 2020/07/15 v2.5i e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count198
+) (C:\Users\guipa\AppData\Roaming\MiKTeX\tex/latex/ifmtarg\ifmtarg.sty
+Package: ifmtarg 2018/04/16 v1.2b check for an empty argument
+) ("C:\Program Files\MiKTeX\tex/latex/base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+) (C:\Users\guipa\AppData\Roaming\MiKTeX\tex/latex/marvosym\marvosym.sty
+Package: marvosym 2011/07/20 v2.2 Martin Vogel's Symbols font definitions
+) (C:\Users\guipa\AppData\Roaming\MiKTeX\tex/latex/parskip\parskip.sty
+Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
+ (C:\Users\guipa\AppData\Roaming\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+ (C:\Users\guipa\AppData\Roaming\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+) (C:\Users\guipa\AppData\Roaming\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)))
+\imagewidth=\skip63
+\imagescale=\skip64
+\TotalSectionLength=\skip65
+\SectionTitleLength=\skip66
+\c@colorCounter=\count199
+ (C:\Users\guipa\AppData\Roaming\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ ("C:\Program Files\MiKTeX\tex/generic/iftex\ifvtex.sty"
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count266
+\Gm@cntv=\count267
+\c@Gm@tempcnt=\count268
+\Gm@bindingoffset=\dimen194
+\Gm@wd@mp=\dimen195
+\Gm@odd@mp=\dimen196
+\Gm@even@mp=\dimen197
+\Gm@layoutwidth=\dimen198
+\Gm@layoutheight=\dimen199
+\Gm@layouthoffset=\dimen256
+\Gm@layoutvoffset=\dimen257
+\Gm@dimlist=\toks30
+ (C:\Users\guipa\AppData\Roaming\MiKTeX\tex/latex/geometry\geometry.cfg))) ("C:\Program Files\MiKTeX\tex/latex/hyperref\hyperref.sty"
+Package: hyperref 2020-05-15 v7.00e Hypertext links for LaTeX
+ ("C:\Program Files\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty"
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (C:\Users\guipa\AppData\Roaming\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (C:\Users\guipa\AppData\Roaming\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (C:\Users\guipa\AppData\Roaming\MiKTeX\tex/generic/pdfescape\pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (C:\Users\guipa\AppData\Roaming\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (C:\Users\guipa\AppData\Roaming\MiKTeX\tex/latex/letltxmacro\letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+) (C:\Users\guipa\AppData\Roaming\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+\@linkdim=\dimen258
+\Hy@linkcounter=\count269
+\Hy@pagecounter=\count270
+ ("C:\Program Files\MiKTeX\tex/latex/hyperref\pd1enc.def"
+File: pd1enc.def 2020-05-15 v7.00e Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (C:\Users\guipa\AppData\Roaming\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+) (C:\Users\guipa\AppData\Roaming\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count271
+Package hyperref Info: Hyper figures OFF on input line 4464.
+Package hyperref Info: Link nesting OFF on input line 4469.
+Package hyperref Info: Hyper index ON on input line 4472.
+Package hyperref Info: Plain pages OFF on input line 4479.
+Package hyperref Info: Backreferencing OFF on input line 4484.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4717.
+\c@Hy@tempcnt=\count272
+ ("C:\Program Files\MiKTeX\tex/latex/url\url.sty"
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5076.
+\XeTeXLinkMargin=\dimen259
+ (C:\Users\guipa\AppData\Roaming\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (C:\Users\guipa\AppData\Roaming\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count273
+\Field@Width=\dimen260
+\Fld@charsize=\dimen261
+Package hyperref Info: Hyper figures OFF on input line 6347.
+Package hyperref Info: Link nesting OFF on input line 6352.
+Package hyperref Info: Hyper index ON on input line 6355.
+Package hyperref Info: backreferencing OFF on input line 6362.
+Package hyperref Info: Link coloring OFF on input line 6367.
+Package hyperref Info: Link coloring with OCG OFF on input line 6372.
+Package hyperref Info: PDF/A mode OFF on input line 6377.
+LaTeX Info: Redefining \ref on input line 6417.
+LaTeX Info: Redefining \pageref on input line 6421.
+ (C:\Users\guipa\AppData\Roaming\MiKTeX\tex/generic/atbegshi\atbegshi.sty
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+)
+\Hy@abspage=\count274
+\c@Item=\count275
+\c@Hfootnote=\count276
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ ("C:\Program Files\MiKTeX\tex/latex/hyperref\hpdftex.def"
+File: hpdftex.def 2020-05-15 v7.00e Hyperref driver for pdfTeX
+ (C:\Users\guipa\AppData\Roaming\MiKTeX\tex/latex/atveryend\atveryend.sty
+Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
+)
+\Fld@listcount=\count277
+\c@bookmark@seq@number=\count278
+ (C:\Users\guipa\AppData\Roaming\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+ (C:\Users\guipa\AppData\Roaming\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 286.
+)
+\Hy@SectionHShift=\skip67
+) ("C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdfmode.def"
+File: l3backend-pdfmode.def 2020-06-29 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count279
+\l__pdf_internal_box=\box58
+) ("g:/04.GUILHERME\01. DOCUMENTOS\00 - PESSOAL\00 - Currículos Guilherme\01.LaTeX_CV_English\Currículo - Dev. e Data Science - Guilherme Ditzel Patriota - PT_BR.aux")
+\openout1 = `"Currículo - Dev. e Data Science - Guilherme Ditzel Patriota - PT_BR.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+\c@mv@tabular=\count280
+\c@mv@boldtabular=\count281
+ ABD: EveryShipout initializing macros ("C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count282
+\scratchdimen=\dimen262
+\scratchbox=\box59
+\nofMPsegments=\count283
+\nofMParguments=\count284
+\everyMPshowfont=\toks31
+\MPscratchCnt=\count285
+\MPscratchDim=\dimen263
+\MPnumerator=\count286
+\makeMPintoPDFobject=\count287
+\everyMPtoPDFconversion=\toks32
+) ("C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty"
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+) ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 44.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(216.2411pt, 369.60115pt, 28.45274pt)
+* v-part:(T,H,B)=(2.84544pt, 786.43408pt, 5.69046pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=369.60115pt
+* \textheight=786.43408pt
+* \oddsidemargin=143.97112pt
+* \evensidemargin=143.97112pt
+* \topmargin=-69.42455pt
+* \headheight=0.0pt
+* \headsep=0.0pt
+* \topskip=10.0pt
+* \footskip=0.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\AtBeginShipoutBox=\box60
+Package hyperref Info: Link coloring OFF on input line 44.
+("C:\Program Files\MiKTeX\tex/latex/hyperref\nameref.sty"
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+ (C:\Users\guipa\AppData\Roaming\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (C:\Users\guipa\AppData\Roaming\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count288
+)
+LaTeX Info: Redefining \ref on input line 44.
+LaTeX Info: Redefining \pageref on input line 44.
+LaTeX Info: Redefining \nameref on input line 44.
+ ("g:/04.GUILHERME\01. DOCUMENTOS\00 - PESSOAL\00 - Currículos Guilherme\01.LaTeX_CV_English\Currículo - Dev. e Data Science - Guilherme Ditzel Patriota - PT_BR.out") ("g:/04.GUILHERME\01. DOCUMENTOS\00 - PESSOAL\00 - Currículos Guilherme\01.LaTeX_CV_English\Currículo - Dev. e Data Science - Guilherme Ditzel Patriota - PT_BR.out")
+\@outlinefile=\write4
+\openout4 = `"Currículo - Dev. e Data Science - Guilherme Ditzel Patriota - PT_BR.out"'.
+
+<guilherme.jpg, id=6, 1588.40234pt x 1588.40234pt>
+File: guilherme.jpg Graphic file (type jpg)
+<use guilherme.jpg>
+Package pdftex.def Info: guilherme.jpg  used on input line 66.
+(pdftex.def)             Requested size: 142.26378pt x 142.24716pt.
+LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' in size <24.88> not available
+(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 66.
+LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
+(Font)              scaled to size 24.88pt on input line 66.
+
+Overfull \hbox (10.50938pt too wide) in paragraph at lines 66--66
+[]\T1/ClearSans-TLF/regular/n/24.88 Guilherme Ditzel
+ []
+
+LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' in size <14.4> not available
+(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 66.
+LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
+(Font)              scaled to size 14.4pt on input line 66.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 66.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 66.
+
+LaTeX Font Warning: Font shape `T1/ClearSans-TLF/m/sc' undefined
+(Font)              using `T1/ClearSans-TLF/m/n' instead on input line 66.
+
+LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/sc' in size <14.4> not available
+(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 66.
+LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
+(Font)              scaled to size 14.4pt on input line 66.
+LaTeX Font Info:    Trying to load font information for U+mvs on input line 66.
+(C:\Users\guipa\AppData\Roaming\MiKTeX\tex/latex/marvosym\umvs.fd)
+Overfull \hbox (4.3538pt too wide) in paragraph at lines 66--66
+[][]| 
+ []
+
+LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/sc' in size <10> not available
+(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 66.
+LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
+(Font)              scaled to size 10.0pt on input line 66.
+
+Overfull \hbox (3.5164pt too wide) in paragraph at lines 66--66
+[][]| 
+ []
+
+
+Overfull \hbox (3.29912pt too wide) in paragraph at lines 66--66
+[][]| 
+ []
+
+
+Overfull \hbox (4.95634pt too wide) in paragraph at lines 66--66
+[][]| 
+ []
+
+LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/sc' in size <12> not available
+(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 66.
+LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
+(Font)              scaled to size 12.0pt on input line 66.
+
+Overfull \hbox (4.14384pt too wide) in paragraph at lines 66--66
+[][]| 
+ []
+
+
+Overfull \hbox (0.71758pt too wide) in paragraph at lines 66--66
+[][]| 
+ []
+
+LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' in size <20.74> not available
+(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 66.
+LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
+(Font)              scaled to size 20.74pt on input line 66.
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 66--66
+[][] 
+ []
+
+LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' in size <7> not available
+(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 66.
+LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
+(Font)              scaled to size 7.0pt on input line 66.
+LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' in size <8> not available
+(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 83.
+LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
+(Font)              scaled to size 8.0pt on input line 83.
+LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/it' in size <10> not available
+(Font)              Font shape `T1/ClearSans-TLF/regular/it' tried instead on input line 83.
+LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/it' will be
+(Font)              scaled to size 10.0pt on input line 83.
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--89
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--133
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--154
+
+ []
+
+[1
+
+{C:/Users/guipa/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <g:/04.GUILHERME/01. DOCUMENTOS/00 - PESSOAL/00 - Currículos Guilherme/01.LaTeX_CV_English/guilherme.jpg>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 187.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 187.
+ ("g:/04.GUILHERME\01. DOCUMENTOS\00 - PESSOAL\00 - Currículos Guilherme\01.LaTeX_CV_English\Currículo - Dev. e Data Science - Guilherme Ditzel Patriota - PT_BR.aux")
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 187.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 187.
+Package rerunfilecheck Info: File `"Currículo - Dev. e Data Science - Guilherme Ditzel Patriota - PT_BR".out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 17548 strings out of 481225
+ 332013 string characters out of 2915929
+ 591141 words of memory out of 3000000
+ 32762 multiletter control sequences out of 15000+200000
+ 582075 words of font info for 45 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 68i,16n,64p,951b,878s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/guipa/AppData/Roaming/MiKTeX/fonts/enc/dvips/clearsans/clr_zxbkm4.enc}<C:/Users/guipa/AppData/Roaming/MiKTeX/fonts/type1/intel/clearsans/ClearSans-Italic.pfb><C:/Users/guipa/AppData/Roaming/MiKTeX/fonts/type1/intel/clearsans/ClearSans-Regular.pfb><C:/Users/guipa/AppData/Roaming/MiKTeX/fonts/type1/public/marvosym/marvosym.pfb>
+Output written on "g:/04.GUILHERME\01. DOCUMENTOS\00 - PESSOAL\00 - Currículos Guilherme\01.LaTeX_CV_English\Currículo - Dev. e Data Science - Guilherme Ditzel Patriota - PT_BR.pdf" (1 page, 254732 bytes).
+PDF statistics:
+ 29 PDF objects out of 1000 (max. 8388607)
+ 2 named destinations out of 1000 (max. 500000)
+ 18 words of extra memory for PDF output out of 10000 (max. 10000000)
+
