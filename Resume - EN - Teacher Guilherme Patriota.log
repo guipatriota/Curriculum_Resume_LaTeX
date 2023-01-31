@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2021.4.4)  16 AUG 2021 17:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2021.4.4)  30 JAN 2023 23:51
 entering extended mode
-**"g:/04.GUILHERME/01. DOCUMENTOS/00 - PESSOAL/00 - Currículos Guilherme/01.LaTeX_CV_English/Currículo - Dev. e Data Science - Guilherme Ditzel Patriota - PT_BR.tex"
-("g:/04.GUILHERME/01. DOCUMENTOS/00 - PESSOAL/00 - Currículos Guilherme/01.LaTeX_CV_English/Currículo - Dev. e Data Science - Guilherme Ditzel Patriota - PT_BR.tex"
+**"d:/guipa/OneDrive/github/curriculum_resume_LaTeX/Resume - EN - Teacher Guilherme Patriota.tex"
+("d:/guipa/OneDrive/github/curriculum_resume_LaTeX/Resume - EN - Teacher Guilherme Patriota.tex"
 LaTeX2e <2020-02-02> patch level 5
-L3 programming layer <2020-07-17> ("g:/04.GUILHERME\01. DOCUMENTOS\00 - PESSOAL\00 - Currículos Guilherme\01.LaTeX_CV_English\twentysecondcv_pt_br.cls"
-Document Class: twentysecondcv_pt_br 2017/01/08 CV class
+L3 programming layer <2020-07-17> (d:/guipa\OneDrive\github\curriculum_resume_LaTeX\twentysecondcv.cls
+Document Class: twentysecondcv 2017/01/08 CV class
 ("C:\Program Files\MiKTeX\tex/latex/base\article.cls"
 Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
 ("C:\Program Files\MiKTeX\tex/latex/base\size10.clo"
@@ -441,25 +441,25 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 File: l3backend-pdfmode.def 2020-06-29 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count279
 \l__pdf_internal_box=\box58
-) ("g:/04.GUILHERME\01. DOCUMENTOS\00 - PESSOAL\00 - Currículos Guilherme\01.LaTeX_CV_English\Currículo - Dev. e Data Science - Guilherme Ditzel Patriota - PT_BR.aux")
-\openout1 = `"Currículo - Dev. e Data Science - Guilherme Ditzel Patriota - PT_BR.aux"'.
+) ("d:/guipa\OneDrive\github\curriculum_resume_LaTeX\Resume - EN - Teacher Guilherme Patriota.aux")
+\openout1 = `"Resume - EN - Teacher Guilherme Patriota.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
 \c@mv@tabular=\count280
 \c@mv@boldtabular=\count281
  ABD: EveryShipout initializing macros ("C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii"
@@ -479,7 +479,7 @@ LaTeX Font Info:    ... okay on input line 44.
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
 ) ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 44.
+LaTeX Info: Redefining \selectfont on input line 49.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -516,7 +516,7 @@ LaTeX Info: Redefining \selectfont on input line 44.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \AtBeginShipoutBox=\box60
-Package hyperref Info: Link coloring OFF on input line 44.
+Package hyperref Info: Link coloring OFF on input line 49.
 ("C:\Program Files\MiKTeX\tex/latex/hyperref\nameref.sty"
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
  (C:\Users\guipa\AppData\Roaming\MiKTeX\tex/latex/refcount\refcount.sty
@@ -526,127 +526,131 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count288
 )
-LaTeX Info: Redefining \ref on input line 44.
-LaTeX Info: Redefining \pageref on input line 44.
-LaTeX Info: Redefining \nameref on input line 44.
- ("g:/04.GUILHERME\01. DOCUMENTOS\00 - PESSOAL\00 - Currículos Guilherme\01.LaTeX_CV_English\Currículo - Dev. e Data Science - Guilherme Ditzel Patriota - PT_BR.out") ("g:/04.GUILHERME\01. DOCUMENTOS\00 - PESSOAL\00 - Currículos Guilherme\01.LaTeX_CV_English\Currículo - Dev. e Data Science - Guilherme Ditzel Patriota - PT_BR.out")
+LaTeX Info: Redefining \ref on input line 49.
+LaTeX Info: Redefining \pageref on input line 49.
+LaTeX Info: Redefining \nameref on input line 49.
+ ("d:/guipa\OneDrive\github\curriculum_resume_LaTeX\Resume - EN - Teacher Guilherme Patriota.out") ("d:/guipa\OneDrive\github\curriculum_resume_LaTeX\Resume - EN - Teacher Guilherme Patriota.out")
 \@outlinefile=\write4
-\openout4 = `"Currículo - Dev. e Data Science - Guilherme Ditzel Patriota - PT_BR.out"'.
+\openout4 = `"Resume - EN - Teacher Guilherme Patriota.out"'.
 
-<guilherme.jpg, id=6, 1588.40234pt x 1588.40234pt>
-File: guilherme.jpg Graphic file (type jpg)
-<use guilherme.jpg>
-Package pdftex.def Info: guilherme.jpg  used on input line 66.
-(pdftex.def)             Requested size: 142.26378pt x 142.24716pt.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' in size <24.88> not available
-(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 66.
+(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 71.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
-(Font)              scaled to size 24.88pt on input line 66.
+(Font)              scaled to size 24.88pt on input line 71.
+LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' in size <14.4> not available
+(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 71.
+LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
+(Font)              scaled to size 14.4pt on input line 71.
 
-Overfull \hbox (10.50938pt too wide) in paragraph at lines 66--66
-[]\T1/ClearSans-TLF/regular/n/24.88 Guilherme Ditzel
+Overfull \hbox (5.22533pt too wide) in paragraph at lines 71--71
+[]\T1/ClearSans-TLF/regular/n/14.4 Software En-gi-neer and Data
  []
 
-LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' in size <14.4> not available
-(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 66.
-LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
-(Font)              scaled to size 14.4pt on input line 66.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 66.
+(Font)              <7> on input line 71.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 66.
+(Font)              <5> on input line 71.
 
 LaTeX Font Warning: Font shape `T1/ClearSans-TLF/m/sc' undefined
-(Font)              using `T1/ClearSans-TLF/m/n' instead on input line 66.
+(Font)              using `T1/ClearSans-TLF/m/n' instead on input line 71.
 
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/sc' in size <14.4> not available
-(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 66.
+(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 71.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
-(Font)              scaled to size 14.4pt on input line 66.
-LaTeX Font Info:    Trying to load font information for U+mvs on input line 66.
+(Font)              scaled to size 14.4pt on input line 71.
+LaTeX Font Info:    Trying to load font information for U+mvs on input line 71.
 (C:\Users\guipa\AppData\Roaming\MiKTeX\tex/latex/marvosym\umvs.fd)
-Overfull \hbox (4.3538pt too wide) in paragraph at lines 66--66
+Overfull \hbox (3.5164pt too wide) in paragraph at lines 71--71
 [][]| 
  []
 
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/sc' in size <10> not available
-(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 66.
+(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 71.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
-(Font)              scaled to size 10.0pt on input line 66.
+(Font)              scaled to size 10.0pt on input line 71.
 
-Overfull \hbox (3.5164pt too wide) in paragraph at lines 66--66
+Overfull \hbox (3.29912pt too wide) in paragraph at lines 71--71
 [][]| 
  []
 
 
-Overfull \hbox (3.29912pt too wide) in paragraph at lines 66--66
+Overfull \hbox (4.95634pt too wide) in paragraph at lines 71--71
 [][]| 
  []
 
 
-Overfull \hbox (4.95634pt too wide) in paragraph at lines 66--66
-[][]| 
+Overfull \hbox (12.75392pt too wide) in paragraph at lines 71--71
+[][]\T1/ClearSans-TLF/regular/n/10 linkedin.com/in/guilhermepatriota[]| 
  []
 
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/sc' in size <12> not available
-(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 66.
+(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 71.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
-(Font)              scaled to size 12.0pt on input line 66.
+(Font)              scaled to size 12.0pt on input line 71.
 
-Overfull \hbox (4.14384pt too wide) in paragraph at lines 66--66
-[][]| 
- []
-
-
-Overfull \hbox (0.71758pt too wide) in paragraph at lines 66--66
+Overfull \hbox (4.14384pt too wide) in paragraph at lines 71--71
 [][]| 
  []
 
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' in size <20.74> not available
-(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 66.
+(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 71.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
-(Font)              scaled to size 20.74pt on input line 66.
+(Font)              scaled to size 20.74pt on input line 71.
 
-Overfull \hbox (0.4pt too wide) in paragraph at lines 66--66
+Overfull \hbox (4.4412pt too wide) in paragraph at lines 71--71
 [][] 
  []
 
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' in size <7> not available
-(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 66.
+(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 71.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
-(Font)              scaled to size 7.0pt on input line 66.
+(Font)              scaled to size 7.0pt on input line 71.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' in size <8> not available
-(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 83.
+(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 88.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
-(Font)              scaled to size 8.0pt on input line 83.
+(Font)              scaled to size 8.0pt on input line 88.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/it' in size <10> not available
-(Font)              Font shape `T1/ClearSans-TLF/regular/it' tried instead on input line 83.
+(Font)              Font shape `T1/ClearSans-TLF/regular/it' tried instead on input line 88.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/it' will be
-(Font)              scaled to size 10.0pt on input line 83.
+(Font)              scaled to size 10.0pt on input line 88.
 
-Underfull \hbox (badness 10000) in paragraph at lines 82--89
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 123--133
+Underfull \hbox (badness 10000) in paragraph at lines 87--94
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 140--154
+Underfull \hbox (badness 10000) in paragraph at lines 128--136
+
+ []
+
+
+Underfull \hbox (badness 1337) in paragraph at lines 147--147
+\T1/ClearSans-TLF/regular/it/10 Maintain and re-pair med-i-cal equip-ments and man-age tech-ni-cian
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--150
+
+ []
+
+LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' in size <12> not available
+(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 156.
+LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
+(Font)              scaled to size 12.0pt on input line 156.
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--165
 
  []
 
 [1
 
-{C:/Users/guipa/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <g:/04.GUILHERME/01. DOCUMENTOS/00 - PESSOAL/00 - Currículos Guilherme/01.LaTeX_CV_English/guilherme.jpg>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 187.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 187.
- ("g:/04.GUILHERME\01. DOCUMENTOS\00 - PESSOAL\00 - Currículos Guilherme\01.LaTeX_CV_English\Currículo - Dev. e Data Science - Guilherme Ditzel Patriota - PT_BR.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 187.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 187.
-Package rerunfilecheck Info: File `"Currículo - Dev. e Data Science - Guilherme Ditzel Patriota - PT_BR".out' has not changed.
+{C:/Users/guipa/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 188.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 188.
+ ("d:/guipa\OneDrive\github\curriculum_resume_LaTeX\Resume - EN - Teacher Guilherme Patriota.aux")
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 188.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 188.
+Package rerunfilecheck Info: File `"Resume - EN - Teacher Guilherme Patriota".out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
 
@@ -654,17 +658,17 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 17548 strings out of 481225
- 332013 string characters out of 2915929
- 591141 words of memory out of 3000000
- 32762 multiletter control sequences out of 15000+200000
- 582075 words of font info for 45 fonts, out of 3000000 for 9000
+ 17529 strings out of 481225
+ 330455 string characters out of 2915929
+ 589000 words of memory out of 3000000
+ 32744 multiletter control sequences out of 15000+200000
+ 582459 words of font info for 46 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,16n,64p,951b,878s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 68i,16n,64p,881b,872s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/guipa/AppData/Roaming/MiKTeX/fonts/enc/dvips/clearsans/clr_zxbkm4.enc}<C:/Users/guipa/AppData/Roaming/MiKTeX/fonts/type1/intel/clearsans/ClearSans-Italic.pfb><C:/Users/guipa/AppData/Roaming/MiKTeX/fonts/type1/intel/clearsans/ClearSans-Regular.pfb><C:/Users/guipa/AppData/Roaming/MiKTeX/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on "g:/04.GUILHERME\01. DOCUMENTOS\00 - PESSOAL\00 - Currículos Guilherme\01.LaTeX_CV_English\Currículo - Dev. e Data Science - Guilherme Ditzel Patriota - PT_BR.pdf" (1 page, 254732 bytes).
+Output written on "d:/guipa\OneDrive\github\curriculum_resume_LaTeX\Resume - EN - Teacher Guilherme Patriota.pdf" (1 page, 47470 bytes).
 PDF statistics:
- 29 PDF objects out of 1000 (max. 8388607)
+ 31 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 500000)
- 18 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
