@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2021.4.4)  30 JAN 2023 23:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2021.4.4)  8 FEB 2023 20:03
 entering extended mode
-**"d:/guipa/OneDrive/github/curriculum_resume_LaTeX/Resume - EN - Teacher Guilherme Patriota.tex"
-("d:/guipa/OneDrive/github/curriculum_resume_LaTeX/Resume - EN - Teacher Guilherme Patriota.tex"
+**"d:/guipa/OneDrive/github/curriculum_resume_LaTeX/Resume - EN - database admin Guilherme Patriota.tex"
+("d:/guipa/OneDrive/github/curriculum_resume_LaTeX/Resume - EN - database admin Guilherme Patriota.tex"
 LaTeX2e <2020-02-02> patch level 5
 L3 programming layer <2020-07-17> (d:/guipa\OneDrive\github\curriculum_resume_LaTeX\twentysecondcv.cls
 Document Class: twentysecondcv 2017/01/08 CV class
@@ -441,8 +441,8 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 File: l3backend-pdfmode.def 2020-06-29 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count279
 \l__pdf_internal_box=\box58
-) ("d:/guipa\OneDrive\github\curriculum_resume_LaTeX\Resume - EN - Teacher Guilherme Patriota.aux")
-\openout1 = `"Resume - EN - Teacher Guilherme Patriota.aux"'.
+) ("d:/guipa\OneDrive\github\curriculum_resume_LaTeX\Resume - EN - database admin Guilherme Patriota.aux")
+\openout1 = `"Resume - EN - database admin Guilherme Patriota.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 49.
 LaTeX Font Info:    ... okay on input line 49.
@@ -529,9 +529,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 49.
 LaTeX Info: Redefining \pageref on input line 49.
 LaTeX Info: Redefining \nameref on input line 49.
- ("d:/guipa\OneDrive\github\curriculum_resume_LaTeX\Resume - EN - Teacher Guilherme Patriota.out") ("d:/guipa\OneDrive\github\curriculum_resume_LaTeX\Resume - EN - Teacher Guilherme Patriota.out")
+ ("d:/guipa\OneDrive\github\curriculum_resume_LaTeX\Resume - EN - database admin Guilherme Patriota.out") ("d:/guipa\OneDrive\github\curriculum_resume_LaTeX\Resume - EN - database admin Guilherme Patriota.out")
 \@outlinefile=\write4
-\openout4 = `"Resume - EN - Teacher Guilherme Patriota.out"'.
+\openout4 = `"Resume - EN - database admin Guilherme Patriota.out"'.
 
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' in size <24.88> not available
 (Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 71.
@@ -541,15 +541,11 @@ LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' in size <14.4> not availab
 (Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 71.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
 (Font)              scaled to size 14.4pt on input line 71.
-
-Overfull \hbox (5.22533pt too wide) in paragraph at lines 71--71
-[]\T1/ClearSans-TLF/regular/n/14.4 Software En-gi-neer and Data
- []
-
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 71.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 71.
+
 
 LaTeX Font Warning: Font shape `T1/ClearSans-TLF/m/sc' undefined
 (Font)              using `T1/ClearSans-TLF/m/n' instead on input line 71.
@@ -597,7 +593,7 @@ LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' in size <20.74> not availa
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
 (Font)              scaled to size 20.74pt on input line 71.
 
-Overfull \hbox (4.4412pt too wide) in paragraph at lines 71--71
+Overfull \hbox (7.1222pt too wide) in paragraph at lines 71--71
 [][] 
  []
 
@@ -624,11 +620,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 128--136
  []
 
 
-Underfull \hbox (badness 1337) in paragraph at lines 147--147
-\T1/ClearSans-TLF/regular/it/10 Maintain and re-pair med-i-cal equip-ments and man-age tech-ni-cian
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 143--150
 
  []
@@ -647,10 +638,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 161--165
 {C:/Users/guipa/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 188.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 188.
- ("d:/guipa\OneDrive\github\curriculum_resume_LaTeX\Resume - EN - Teacher Guilherme Patriota.aux")
+ ("d:/guipa\OneDrive\github\curriculum_resume_LaTeX\Resume - EN - database admin Guilherme Patriota.aux")
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 188.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 188.
-Package rerunfilecheck Info: File `"Resume - EN - Teacher Guilherme Patriota".out' has not changed.
+Package rerunfilecheck Info: File `"Resume - EN - database admin Guilherme Patriota".out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
 
@@ -658,15 +649,15 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 17529 strings out of 481225
- 330455 string characters out of 2915929
- 589000 words of memory out of 3000000
- 32744 multiletter control sequences out of 15000+200000
+ 17526 strings out of 481225
+ 330500 string characters out of 2915929
+ 588893 words of memory out of 3000000
+ 32741 multiletter control sequences out of 15000+200000
  582459 words of font info for 46 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,16n,64p,881b,872s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 68i,16n,64p,888b,872s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/guipa/AppData/Roaming/MiKTeX/fonts/enc/dvips/clearsans/clr_zxbkm4.enc}<C:/Users/guipa/AppData/Roaming/MiKTeX/fonts/type1/intel/clearsans/ClearSans-Italic.pfb><C:/Users/guipa/AppData/Roaming/MiKTeX/fonts/type1/intel/clearsans/ClearSans-Regular.pfb><C:/Users/guipa/AppData/Roaming/MiKTeX/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on "d:/guipa\OneDrive\github\curriculum_resume_LaTeX\Resume - EN - Teacher Guilherme Patriota.pdf" (1 page, 47470 bytes).
+Output written on "d:/guipa\OneDrive\github\curriculum_resume_LaTeX\Resume - EN - database admin Guilherme Patriota.pdf" (1 page, 51172 bytes).
 PDF statistics:
  31 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 500000)
