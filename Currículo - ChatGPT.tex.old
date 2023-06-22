@@ -1,0 +1,80 @@
+\documentclass{article}
+
+% Definir pacotes necessários
+\usepackage{geometry}
+\usepackage{titlesec}
+\usepackage{enumitem}
+\usepackage{hyperref}
+
+% Configurações de página
+\geometry{a4paper, margin=0.5in}
+\setlength{\parindent}{0pt}
+
+% Configurações de título
+\titleformat{\section}
+{\Large\bfseries}
+{}
+{0em}
+{}[\titlerule]
+
+% Configurações de itemize
+\setlist[itemize]{leftmargin=*}
+
+% Informações pessoais
+\newcommand{\meunome}{Seu Nome Completo}
+\newcommand{\meuemail}{seu.email@exemplo.com}
+\newcommand{\meutelefone}{(99) 99999-9999}
+\newcommand{\meusite}{www.seusite.com}
+\newcommand{\meulinkedin}{www.linkedin.com/in/seulinkedin}
+
+\begin{document}
+
+% Título e informações pessoais
+\centerline{\Huge\bfseries \meunome}
+\vspace{1em}
+\begin{center}
+    \begin{tabular}{l l}
+        \textbf{E-mail:} & \meuemail \\
+        \textbf{Telefone:} & \meutelefone \\
+        \textbf{Site:} & \href{\meusite}{\meusite} \\
+        \textbf{LinkedIn:} & \href{\meulinkedin}{\meulinkedin}
+    \end{tabular}
+\end{center}
+
+% Seções
+\section{Objetivo}
+Inserir aqui o seu objetivo profissional.
+
+\section{Formação}
+\begin{itemize}
+    \item \textbf{Curso Superior em TI} - Nome da Universidade (Ano de conclusão)
+    \item \textbf{Curso Técnico em TI} - Nome da Instituição (Ano de conclusão)
+\end{itemize}
+
+\section{Experiência Profissional}
+\begin{itemize}
+    \item \textbf{Nome da Empresa} - Cargo ocupado (Período de trabalho)
+    \begin{itemize}
+        \item Realizações e responsabilidades na empresa.
+    \end{itemize}
+    
+    \item \textbf{Nome da Empresa} - Cargo ocupado (Período de trabalho)
+    \begin{itemize}
+        \item Realizações e responsabilidades na empresa.
+    \end{itemize}
+\end{itemize}
+
+\section{Habilidades Técnicas}
+\begin{itemize}
+    \item Linguagens de programação: C++, Python, Java, etc.
+    \item Tecnologias de banco de dados: MySQL, SQL Server, Oracle, etc.
+    \item Sistemas operacionais: Windows, Linux, Mac OS, etc.
+\end{itemize}
+
+\section{Idiomas}
+\begin{itemize}
+    \item Inglês - Avançado
+    \item Espanhol - Intermediário
+\end{itemize}
+
+\end{document}

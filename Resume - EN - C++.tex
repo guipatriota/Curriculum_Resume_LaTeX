@@ -1,0 +1,198 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Twenty Seconds Resume/CV
+% LaTeX Template
+% Version 1.1 (8/1/17)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Carmine Spagnuolo (cspagnuolo@unisa.it) with major modifications by
+% Vel (vel@LaTeXTemplates.com)
+%
+% License:
+% The MIT License (see included LICENSE file)
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+% PERSONAL INFORMATION
+%----------------------------------------------------------------------------------------
+\documentclass[letterpaper]{twentysecondcv_en} % a4paper for A4
+
+% If you don't need one of the below elements, remove the content inside the brackets {} leaving the command, e.g. \cvnumberphone{}
+
+\profilepic{} % Profile picture
+
+\cvname{Guilherme \newline Patriota} % Name
+\cvjobtitle{C++ Developer} % Job title/career
+
+\cvdate{} % Date of birth
+
+% Short address/location, use \newline if more than 1 line is required
+\cvaddress{H4V 2Y2 \newline Montreal/QC}
+\cvnumberphone{+1 (438) 926-0872} % Phone number
+\cvsite{linkedin.com/in/guilhermepatriota} % Personal website
+\givenfacebook{}
+\givenlinkedin{}
+\cvmail{gdp.ai.data.eng@gmail.com} % Email address
+
+%-------------------------------------------------------------------------------
+
+\begin{document}
+
+%-------------------------------------------------------------------------------
+% ABOUT ME
+%-------------------------------------------------------------------------------
+\aboutme{Passionate about technology and software Development, I am an 
+experienced developer with a strong background in electronics and 
+telecommunications, as well as a master's degree in electrical engineering. 
+Since 2016, I have been a software engineering and computer engineering professor at 
+UNINTER in Brazil, where I created a practical activity system with real-world 
+cases from the job market for all IT courses. I am currently looking for new 
+professional opportunities in my areas of interest.}
+% To remove the About Me section, delete everything within \aboutme{}
+
+%-------------------------------------------------------------------------------
+% SKILLS
+%-------------------------------------------------------------------------------
+
+% Skill bar section, each skill must have a value between 0 an 6 (float)
+\skills{
+				{Machine Learning, NLP/5},
+				{Database, SQL, NoSQL/4.5},
+				{Big Data, Hadoop, Spark/4},
+				{Statistical Analysis, AI/5},
+				{Kafka, Constrained Devices/5},
+				{Electronics, IoT, MQTT/5},
+				{Programming, C++, C, Python/6}}
+
+%------------------------------------------------
+
+% Skill text section, each skill must have a value between 0 an 6
+\skillstext{{English/5}, {French/5}, {Portuguese/6}}
+
+%----------------------------------------------------------------------------------------
+% Portfolio text section
+\portfolio{github.com/guipatriota}
+
+%----------------------------------------------------------------------------------------
+
+\makeprofile % Print the sidebar
+
+%----------------------------------------------------------------------------------------
+% EXPERIENCE
+%----------------------------------------------------------------------------------------
+
+\section{Experience}
+
+\begin{twenty} % Environment for a list with descriptions
+	\twentyitem{since 2016}
+						{University Professor}
+						{UNINTER and FAESP, Brazil}
+						{\emph{- Courses: Embedded Systems, Electronics, C and Python 
+						Programming, System Analysis, Big Data, 
+						Natural Language Processing, Databases, NoSQL, Artificial 
+						Intelligence.\\
+						\textbf{$\star$ Achievement:} Created a system of practical 
+						activities with real cases from the job market for all IT courses
+						(Big Data, NoSQL and Python).}}
+	\twentyitem{2020-2021}
+						{C++ Developer}
+						{Boa Impressão 3D, Brazil}
+						{\emph{- Developing electronics and software for new equipment.\\
+						- Managing the assembly line.\\
+						\textbf{$ \star $ Achievement:} Creation of a high-capacity 3D 
+						printer (C/C++).\\
+						\textbf{$ \star $ Achievement:} Implementation of a production line 
+						control and maintenance system based on Key Performance Indicators 
+						(KPIs) with Python.}}
+	\twentyitem{2018-2020}
+						{3D Printer Technician}
+						{GS3D, Brazil}
+						{\emph{- Building, repairing, and configuring 3D printers.\\
+						- Conducting 3D modeling and research on healthcare projects.\\
+						\textbf{$ \star $ Achievement:} Creation of a company focused on 
+						meeting hospital needs.}}
+	\twentyitem{2012-2018}
+						{Medical Equipment Engineer}
+						{Hospitals in Brazil}
+						{\emph{- Maintaining and repairing medical equipment.\\
+						- Managing teams of technicians.\\
+						\textbf{$ \star $ Achievement:} Creation of a project management 
+						department based on PMBOK.\\
+						\textbf{$ \star $ Achievement:} Implementation of a clinical 
+						engineering and medical equipment traceability department with 
+						management software on React platform (Javascript).}}
+\end{twenty}
+
+%----------------------------------------------------------------------------------------
+% EDUCATION
+%----------------------------------------------------------------------------------------
+
+\section{Education}
+
+\begin{twenty} % Environment for a list with descriptions
+	\twentyitem{2022}
+						{Specialization in Online Learning}
+						{UNINTER, Brazil}
+						{\emph{Online pedagogy, flipped classroom, and other learning 
+						techniques.}}
+	\twentyitem{2016}
+						{MBA in Healthcare}
+						{FGV, Brazil}
+						{\emph{Improvements in healthcare service management.}}
+	\twentyitem{2011}
+						{M.Sc. in Electronic Engineering}
+						{UFPR, Brazil}
+						{\emph{Applied AI to electronics and telecommunications.}}
+	\twentyitem{2006}
+						{B.Sc. in Electronic Engineering}
+						{UFPR/ENSPS, Brazil/France}
+						{\emph{Sandwich degree in electronic engineering and 
+						telecommunications.}}
+\end{twenty}
+
+%----------------------------------------------------------------------------------------
+% COURSES
+%----------------------------------------------------------------------------------------
+
+\section{Additional Training}
+
+\begin{twenty} % Environment for a list with descriptions
+\twentyitemmedium{2020}{Knowledge Discovery in Databases and Data Mining}{\emph{UFPR, Brazil}}
+\twentyitemmedium{2020}{Foundations of Data Science}{\emph{Aldeia Coworking, Brazil}}
+\twentyitemmedium{2020}{Introduction to Python Programming}{\emph{MITx, USA}}
+\twentyitemmedium{2020}{Fundamentals of AI}{\emph{Data Science Academy, Brazil}}
+\twentyitemmedium{2020}{Datascience 2.0}{\emph{Data Science Academy, Brazil}}
+%\twentyitem{<dates>}{<title>}{<location>}{<description>}
+\end{twenty}
+
+%----------------------------------------------------------------------------------------
+% VOLUNTEER EXPERIENCE
+%----------------------------------------------------------------------------------------
+
+\section{Volunteer Experience}
+
+\begin{twenty} % Environment for a list with descriptions
+	\twentyitem{2020}
+						{3D Printer Technician}
+						{GS3D, Brazil}
+						{\emph{Development, 3D printing, and delivery of 500 visors for 
+						donation to healthcare professionals during the first 6 months of 
+						the COVID-19 pandemic.}}
+
+\end{twenty}
+
+%----------------------------------------------------------------------------------------
+% INTERESTS
+%----------------------------------------------------------------------------------------
+
+\subsection{Hobbies and Interests}
+
+- Professional: Teaching, AI, Blockchain, 3D Printing, Research.\
+- Personal: Dance, Scouting
+
+*References available upon request
+
+\end{document}

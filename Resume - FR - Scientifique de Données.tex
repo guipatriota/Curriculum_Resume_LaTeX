@@ -1,0 +1,205 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Twenty Seconds Resume/CV
+% LaTeX Template
+% Version 1.1 (8/1/17)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Carmine Spagnuolo (cspagnuolo@unisa.it) with major modifications by 
+% Vel (vel@LaTeXTemplates.com)
+%
+% License:
+% The MIT License (see included LICENSE file)
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+% INFORMATIONS PERSONNELLES
+%----------------------------------------------------------------------------------------
+\documentclass[letterpaper]{twentysecondcv_fr} % a4paper for A4
+
+% Si vous n'avez pas besoin de l'un des éléments ci-dessous, supprimez simplement le contenu en laissant la commande, par exemple \cvnumberphone{}
+
+\profilepic{} % Photo de profil
+
+\cvname{Guilherme \newline Patriota} % Nom
+\cvjobtitle{Scientifique de Données} % Titre du poste / carrière
+
+\cvdate{} % Date de naissance
+
+% Courte adresse / emplacement, utilisez \newline si 
+% plus d'une ligne est nécessaire:
+\cvaddress{H4V 2Y2 \newline Montréal/QC}
+\cvnumberphone{+1 (438) 926-0872} % Numéro de téléphone
+\cvsite{linkedin.com/in/guilhermepatriota} % Site personnel
+\givenfacebook{}
+\givenlinkedin{}
+\cvmail{gdp.ai.data.eng@gmail.com} % Adresse e-mail
+
+%-------------------------------------------------------------------------------
+
+\begin{document}
+
+%-------------------------------------------------------------------------------
+% À PROPOS DE MOI
+%-------------------------------------------------------------------------------
+\aboutme{Passionné par les technologies et les sciences des données, je suis un 
+				scientifique de données et développeur expérimenté, avec une solide 
+				formation en électronique et télécommunications, ainsi qu'une maîtrise 
+				en génie électrique. Depuis 2016, je suis professeur de génie logiciel 
+				et de sciences des données chez UNINTER, au Brésil, où j'ai créé un 
+				système d'activités pratiques avec des cas réels du marché du travail 
+				pour tous les cours de TI. Je suis actuellement à la recherche de 
+				nouvelles opportunités professionnelles dans mes domaines d'intérêt.} 
+% Pour ne pas avoir de section À propos de moi, 
+% supprimez simplement tout le texte et laissez \aboutme{}
+
+%-------------------------------------------------------------------------------
+% COMPÉTENCES
+%-------------------------------------------------------------------------------
+
+% Section de barre de compétences, chaque compétence doit avoir une valeur entre 0 et 6 (flottant)
+\skills{
+				{Électronique, IoT, MQTT/4.5},
+				{Machine Learning, TALN/5},
+				{Base de Données, SQL, NoSQL/4.5},
+				{Big Data, Hadoop, Spark/4},
+				{Analyse statistique/5},
+				{Pandas, Tensorflow, IA/5},
+				{Programmation, Python, C++, R/6}}
+
+%------------------------------------------------
+
+% Section de texte de compétences, chaque compétence doit avoir une valeur entre 0 et 6
+\skillstext{{Français/5}, {Anglais/5}, {Portugais /6}}
+
+%----------------------------------------------------------------------------------------
+% Section texte du portefeuille
+\portfolio{github.com/guipatriota}
+
+%----------------------------------------------------------------------------------------
+
+\makeprofile % Imprimer la barre latérale
+
+%----------------------------------------------------------------------------------------
+%	 EXPERIENCE
+%----------------------------------------------------------------------------------------
+
+\section{Expérience}
+
+\begin{twenty} % Environment for a list with descriptions
+	\twentyitem{depuis 2016}
+						{Professeur d'université}
+						{UNINTER et FAESP, Brésil}
+						{\emph{
+						- Matières: Analyse de Systèmes, Big Data, Traitement Automatique 
+						du Langage Naturel, Bases de Données, NoSQL, Systèmes 
+						Embarqués, Intelligence Artificielle, Électronique, Programmation C 
+						et Python.\\
+						\textbf{$ \star $ Réalisation:} Création d'un système d'activités 
+						pratiques avec des cas réels du marché du travail pour tous les 
+						cours de TI (Big Data, NoSQL et Python).}}
+	\twentyitem{2020-2021}
+						{Développeur C++}
+						{Boa Impressão 3D, Brésil}
+						{\emph{- Développer de l'électronique et des logiciels pour de 
+						nouvelle equipements.\\
+						- Gérir la chaîne de montage.\\
+						\textbf{$ \star $ Réalisation:} Création d'une imprimante 3D de 
+						grande capacité (C++).\\
+						\textbf{$ \star $ Réalisation:} Mise en place d'un système 
+						de contrôle de la ligne de production et de maintenance basé sur 
+						des indicateurs clé de performance (ICP) avec Python.}}
+	\twentyitem{2018-2020}
+						{Technicien Imprimante 3D}
+						{GS3D, Brésil}
+						{\emph{- Construir, réparer et configurer des imprimantes 3D.\\
+						- Faire la modélisation 3D et la recherche sur des projets de soins 
+						de santé.\\
+						\textbf{$ \star $ Réalisation:} Création d'une entreprise axée sur 
+						la satisfaction des besoins des hôpitaux.}}
+	\twentyitem{2012-2018}
+						{Ingénieur en Équipements Médicaux}
+						{Hôpitaux au Brésil}
+						{\emph{- Maintenir et réparer des équipements médicaux.\\
+						- Gérer des équipes de techniciens.\\
+						\textbf{$ \star $ Réalisation:} Création d'un département de gestion 
+						de projets (PMBOK)\\
+						\textbf{$ \star $ Réalisation:} Mise en place d'un département 
+						d'ingénierie clinique et de traçabilité des équipements médicaux 
+						avec logiciel de gestion sur plateforme React (Javascript).}}
+\end{twenty}
+
+%----------------------------------------------------------------------------------------
+% FORMATION
+%----------------------------------------------------------------------------------------
+
+\section{Formation}
+
+\begin{twenty} % Environnement pour une liste avec des descriptions
+	\twentyitem{2022}
+						{Specialisation en apprentissage en ligne}
+						{UNINTER, Brésil}
+						{\emph{Pédagogie en ligne, classe inversée et autres techniques 
+						d'apprentissage.}}
+	\twentyitem{2016}
+						{MBA en Santé}
+						{FGV, Brésil}
+						{\emph{Améliorations apportées à la gestion des services de santé.}}
+	\twentyitem{2011}
+						{M.Sc. Ingénieur électronique}
+						{UFPR, Brésil}
+						{\emph{IA appliquée à l'électronique et aux télécommunications.}}
+	\twentyitem{2006}
+						{B.Sc. Ingénieur électronique}
+						{UFPR/ENSPS, Brésil/France}
+						{\emph{Licence de sandwich en ingénierie électronique et 
+						télécommunications.}}
+\end{twenty}
+
+%----------------------------------------------------------------------------------------
+%	 Courses
+%----------------------------------------------------------------------------------------
+
+\section{Formation Complémentaire}
+
+\begin{twenty} % Environment for a list with descriptions
+	\twentyitemmedium{2020}{Découverte de connaissence et le datamining}{\emph{UFPR, Brazil}}
+	\twentyitemmedium{2020}{Fondements de la science des données}{\emph{Aldeia Coworking, Brazil}}
+	\twentyitemmedium{2020}{Introduction à la programmation Python}{\emph{MITx, USA}}
+	\twentyitemmedium{2020}{Fondamentaux de l'IA}{\emph{Data Science Academy, Brésil}}
+	\twentyitemmedium{2020}{Datascience 2.0}{\emph{Data Science Academy, Brésil}}
+	%\twentyitem{<dates>}{<title>}{<location>}{<description>}
+\end{twenty}
+
+%----------------------------------------------------------------------------------------
+% EXPERIENCE BÉNÉVOLE
+%----------------------------------------------------------------------------------------
+
+\section{Expérience Bénévole}
+
+\begin{twenty} % Environment for a list with descriptions
+	\twentyitem{2020}
+						{Technicien Imprimante 3D}
+						{GS3D, Brésil}
+						{\emph{Développement, impression 3D et livraison de 500 visières 
+						pour don aux professionnels de santé pendant les 6 premiers mois de 
+						la pandémie COVID-19.}}
+
+\end{twenty}
+
+
+%----------------------------------------------------------------------------------------
+% CENTRES D'INTÉRÊT
+%----------------------------------------------------------------------------------------
+
+\subsection{Loisir et Intérêts}
+
+- Professionnel: Enseignement, IA, Blockchains, Impression 3D, Recherche.\\
+- Personnel: Danse, Scoutisme
+
+*Références disponibles sur demande
+
+\end{document}

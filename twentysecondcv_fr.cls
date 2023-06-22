@@ -1,13 +1,16 @@
 \usepackage{fontawesome}
-\ProvidesClass{twentysecondcv}[2017/01/08 CV class]
+\ProvidesClass{twentysecondcv_fr}[2017/01/08 CV class]
 \LoadClass{article}
 \NeedsTeXFormat{LaTeX2e}
 
+\RequirePackage{enumitem}
+\setlist{topsep=0pt}
 %----------------------------------------------------------------------------------------
 %	 REQUIRED PACKAGES
 %----------------------------------------------------------------------------------------
 
 \RequirePackage[sfdefault]{ClearSans}
+%\RequirePackage[sfdefault]{FiraSans}
 \RequirePackage[T1]{fontenc}
 \RequirePackage{tikz}
 \RequirePackage{xcolor}
@@ -27,17 +30,31 @@
 %	 COLOURS
 %----------------------------------------------------------------------------------------
 
-\definecolor{white}{RGB}{255,255,255}
-\definecolor{gray}{HTML}{4D4D4D}
-\definecolor{sidecolor}{HTML}{E7E7E7}
-\definecolor{mainblue}{HTML}{0E5484}
-\definecolor{maingray}{HTML}{B9B9B9}
+% \definecolor{white}{RGB}{255,255,255}
+% \definecolor{gray}{HTML}{4D4D4D}
+% \definecolor{sidecolor}{HTML}{E7E7E7}
+% \definecolor{mainblue}{HTML}{0E5484}
+% \definecolor{maingray}{HTML}{B9B9B9}
+
+% \definecolor{white}{RGB}{255,255,255}
+% \definecolor{gray}{HTML}{116466}
+% \definecolor{sidecolor}{HTML}{d1e8e2}
+% \definecolor{mainblue}{HTML}{116466}
+% \definecolor{maingray}{HTML}{eafded}
+
+\definecolor{black}{HTML}{131526}
+\definecolor{white}{HTML}{ddddee}
+\definecolor{gray}{HTML}{3a4365}
+\definecolor{sidecolor}{HTML}{aab1be}
+\definecolor{mainblue}{HTML}{263056}
+\definecolor{maingray}{HTML}{99a0b1}
 
 %----------------------------------------------------------------------------------------
 %	 MISC CONFIGURATIONS
 %----------------------------------------------------------------------------------------
 
-\renewcommand{\bfseries}{\color{gray}} % Make \textbf produce coloured text instead
+\newcommand{\mytextbf}[1]{\textbf{\color{gray}\uppercase{#1}}} % Make \textbf produce coloured text instead
+%\renewcommand{\bfseries}{\color{gray}} % Make \textbf produce coloured text instead
 
 \pagestyle{empty} % Disable headers and footers
 
@@ -159,20 +176,21 @@
 		%------------------------------------------------
 		
 		\ifthenelse{\equal{\aboutme}{}}{}{
-			\profilesection{About me}
+			\profilesection{À propos de moi}
 			\begin{justify}
+				\setlength{\hsize}{0.97\hsize}
 				\aboutme
 			\end{justify}
 		}
 
 		%------------------------------------------------
 
-		\profilesection{Skills}
+		\profilesection{Compétences}
 
 		\skills
 		\skillstext
 		\scriptsize
-		(*)[The skill scale is from 0 (Fundamental Awareness) to 6 (Expert).]
+		(*)[L'échelle de compétences va de 0 (Conscience fondamentale) à 6 (Expert).]
 			
 		%------------------------------------------------
 		\normalsize
@@ -201,17 +219,9 @@
 	{%
 		\round{#1}{
 			\ifcase\value{colorCounter}%
-			maingray\or%
 			mainblue\or%
-			maingray\or%
-			mainblue\or%
-			maingray\or%
-			mainblue\or%
-			maingray\or%
-			mainblue\or%
- 			maingray\or%
 			mainblue\else%
-			maingray\fi%
+			mainblue\fi%
 		}%
 	}%
 	\stepcounter{colorCounter}%
@@ -244,13 +254,21 @@
 	\end{tabular*}
 }
 
-\newcommand{\twentyitem}[4]{%
-	#1&\parbox[t]{0.83\textwidth}{%
-		\textbf{#2}%
-		\hfill%
-		{\footnotesize#3}\\%
+\newcommand{\twentyitem}[4]{%	
+		\parbox[t]{1.05\textwidth}{
+			\mytextbf{#2}, {\footnotesize#3}%
+			\hfill%
+			{\footnotesize#1}}\\%
+			\parbox[t]{1.05\textwidth}{%
 		#4\vspace{\parsep}%
-	}\\
+		}\\
+}
+
+\newcommand{\twentyitemmedium}[3]{%	
+		\parbox[t]{1.05\textwidth}{
+			\mytextbf{#2}, {\footnotesize#3}%
+			\hfill%
+			{\footnotesize#1}}\\
 }
 
 %----------------------------------------------------------------------------------------
@@ -276,6 +294,6 @@
 %	 MARGINS AND LINKS
 %----------------------------------------------------------------------------------------
 
-\RequirePackage[left=7.6cm,top=0.1cm,right=1cm,bottom=0.2cm,nohead,nofoot]{geometry}
+\RequirePackage[paperwidth=205.2mm,paperheight=265.05mm,left=7.6cm,top=0.1cm,right=1cm,bottom=0.2cm,nohead,nofoot]{geometry}
 
 \RequirePackage{hyperref}
